@@ -53,4 +53,4 @@ The application interacts directly with the Windows Registry and Driver Manageme
 Modifying hardware identifiers can lead to software licensing issues or network instability. Use at your own risk.
 
 ---
-> *"Nitroud is a skid" - Nitrous 2026*
+> *"Nitrous is a skid" - Nitrous 2026*
