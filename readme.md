@@ -40,11 +40,7 @@ The application interacts directly with the Windows Registry and Driver Manageme
 
 ### Compilation
 1. Open the project in Visual Studio.
-2. Ensure the following libraries are linked in your linker settings:
-   * `setupapi.lib`
-   * `advapi32.lib`
-   * `cfgmgr32.lib`
-3. Build as **Release | x64**.
+2. Build as **Release | x64**.
 
 ## 💻 Usage
 
